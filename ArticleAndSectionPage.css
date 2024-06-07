@@ -1,0 +1,36 @@
+body{
+  background-color: #e4e978;
+}
+#mainArticle{
+    padding: 5px 15px;
+    background-color: #f2f4c0 ;
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+}
+section{
+    font-style: italic;
+    padding: 5px 15px;
+    color: #5c6e91;
+    background-color: #f2f4c0;
+    margin: 15px 10px;
+    font-style: italic;
+    border: 1px solid #b2ad7d;
+}
+#oranges{
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    padding: 5px 15px;
+}
+#apples{
+    border: 1px solid #b2ad7d;
+    margin: 15px 10px;
+    padding: 5px 15px;
+}
+#oranges article span{
+    text-transform:uppercase ;
+}
+#mainArticle span{
+    font-weight: bold;
+}
+
+
